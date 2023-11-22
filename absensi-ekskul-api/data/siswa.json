@@ -1,0 +1,3026 @@
+[
+    {
+        "id": "1",
+        "nis": "222310084",
+        "nama": "ABID KHALID RABBANI",
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": "2",
+        "nis": "222310115",
+        "nama": "ABID PURNOMO",
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": "3",
+        "nis": "222310146",
+        "nama": "ADELLEYA HARYANI",
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": "4",
+        "nis": "222310088",
+        "nama": "ALIF FAKIH ARRASYID",
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": "5",
+        "nis": "222310151",
+        "nama": "AULIA SYIFA MUTIARANI",
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": "6",
+        "nis": "222310152",
+        "nama": "BRILIAN RIKHAT PAMBUDI",
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": "7",
+        "nis": "222310153",
+        "nama": "CALLYSTA SALWA PUTRI GOFUR",
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": "8",
+        "nis": "222310090",
+        "nama": "CEYSAR RIZAL RASIED",
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": "9",
+        "nis": "222310092",
+        "nama": "DZAKY NAUFAL FAUZAN",
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": "10",
+        "nis": "222310155",
+        "nama": "FAHREL IBNU SUPARDI",
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": "11",
+        "nis": "222310093",
+        "nama": "FAIZ DAFFA RAFIANSYAH",
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": "12",
+        "nis": "222310160",
+        "nama": "HAZEL TARA ZEEREILDA RAHARJO",
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": "13",
+        "nis": "222310127",
+        "nama": "ILHAM MAULANA SUHENDRA",
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": "14",
+        "nis": "222310162",
+        "nama": "JOAN SETYO NUGROHO FARIANSYAH PUTRA KELANA",
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": "15",
+        "nis": "222310163",
+        "nama": "JOSHUA PUTRA NUGROHO",
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": "16",
+        "nis": "222310130",
+        "nama": "MOHAMAD RASYA DHARMAWAN",
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": "17",
+        "nis": "222310131",
+        "nama": "MUHAMAD GABRIEL SAVIOLA",
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": "18",
+        "nis": "222310100",
+        "nama": "MUHAMAD YUSUF SOBIRIN",
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": "19",
+        "nis": "222310166",
+        "nama": "MUHAMMAD TEGAR RADIKA",
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": "20",
+        "nis": "222310170",
+        "nama": "MUHAMMAD ZIDAN APRILIYANTO",
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": "21",
+        "nis": "222310104",
+        "nama": "NABIL ADITYA RAHMANI",
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": "22",
+        "nis": "222310171",
+        "nama": "PANDU RAFA HANGGORO",
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": "23",
+        "nis": "222310106",
+        "nama": "RADITYA IBNU HARDIYANTO",
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": "24",
+        "nis": "222310138",
+        "nama": "RAFI RISQILAH",
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": "25",
+        "nis": "222310174",
+        "nama": "REIVAN TRISHA ERLANGGA",
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": "26",
+        "nis": "222310175",
+        "nama": "RIFALDI ARYA GUSTAMA",
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": "27",
+        "nis": "222310111",
+        "nama": "SHERYL CALISTA MEIAZAHRA",
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": "28",
+        "nis": "222310112",
+        "nama": "SYAFIQ AL KADRI",
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": "29",
+        "nis": "222310143",
+        "nama": "VIRNIE FIVEVIRIANI",
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": "30",
+        "nis": "222310176",
+        "nama": "WIRANDA HADI ZULIANDIKA",
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": "31",
+        "nis": "222310145",
+        "nama": "YORDAN MIRZA HANIF",
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": "32",
+        "nis": "222310085",
+        "nama": "AGUNG BAGASKARA",
+        "kelas": "XI RPL 2"
+    },
+    {
+        "id": "33",
+        "nis": "222310148",
+        "nama": "AHMAD ILHAM FARIZQI",
+        "kelas": "XI RPL 2"
+    },
+    {
+        "id": "34",
+        "nis": "222310087",
+        "nama": "AISYAH LITUHAYU WIDYADANA",
+        "kelas": "XI RPL 2"
+    },
+    {
+        "id": "35",
+        "nis": "222310117",
+        "nama": "ALFIN ACHSANI",
+        "kelas": "XI RPL 2"
+    },
+    {
+        "id": "36",
+        "nis": "222310150",
+        "nama": "ANTONIUS ARDI PANDUJAYA",
+        "kelas": "XI RPL 2"
+    },
+    {
+        "id": "37",
+        "nis": "222310120",
+        "nama": "DANDI FIRMANSYAH",
+        "kelas": "XI RPL 2"
+    },
+    {
+        "id": "38",
+        "nis": "222310091",
+        "nama": "DIANDRA WAHYU TRIATMOJO",
+        "kelas": "XI RPL 2"
+    },
+    {
+        "id": "39",
+        "nis": "222310154",
+        "nama": "DIMAZ ERLANGGA",
+        "kelas": "XI RPL 2"
+    },
+    {
+        "id": "40",
+        "nis": "222310121",
+        "nama": "DIVA JULI ASYIFAH",
+        "kelas": "XI RPL 2"
+    },
+    {
+        "id": "41",
+        "nis": "222310156",
+        "nama": "FAREL ARANTA",
+        "kelas": "XI RPL 2"
+    },
+    {
+        "id": "42",
+        "nis": "222310124",
+        "nama": "FATIR RASYA",
+        "kelas": "XI RPL 2"
+    },
+    {
+        "id": "43",
+        "nis": "222310157",
+        "nama": "FREY AYOGA AZKA",
+        "kelas": "XI RPL 2"
+    },
+    {
+        "id": "44",
+        "nis": "222310095",
+        "nama": "FRISTARA YURI FARDHAN",
+        "kelas": "XI RPL 2"
+    },
+    {
+        "id": "45",
+        "nis": "222310158",
+        "nama": "GAYUH MUKTI AJI",
+        "kelas": "XI RPL 2"
+    },
+    {
+        "id": "46",
+        "nis": "222310096",
+        "nama": "GHONIYYU GAMA MANGGALA",
+        "kelas": "XI RPL 2"
+    },
+    {
+        "id": "47",
+        "nis": "222310097",
+        "nama": "IHSANUL RIZKY MERDIANSYAH",
+        "kelas": "XI RPL 2"
+    },
+    {
+        "id": "48",
+        "nis": "222310128",
+        "nama": "JOSEPH WALTER FERDINANDUS",
+        "kelas": "XI RPL 2"
+    },
+    {
+        "id": "49",
+        "nis": "222310101",
+        "nama": "MUHAMAD DHANI RIZKI",
+        "kelas": "XI RPL 2"
+    },
+    {
+        "id": "50",
+        "nis": "222310132",
+        "nama": "MUHAMMAD ADAM ALFAZEIN",
+        "kelas": "XI RPL 2"
+    },
+    {
+        "id": "51",
+        "nis": "222310167",
+        "nama": "MUHAMMAD AZHAR NUR HAFIZH",
+        "kelas": "XI RPL 2"
+    },
+    {
+        "id": "52",
+        "nis": "222310133",
+        "nama": "MUHAMMAD ERFATH DARUSSALAM",
+        "kelas": "XI RPL 2"
+    },
+    {
+        "id": "53",
+        "nis": "222310102",
+        "nama": "MUHAMMAD FATIH ARDHIASA",
+        "kelas": "XI RPL 2"
+    },
+    {
+        "id": "54",
+        "nis": "222310129",
+        "nama": "MUHAMMAD THORIQ AL FATIH",
+        "kelas": "XI RPL 2"
+    },
+    {
+        "id": "55",
+        "nis": "222310164",
+        "nama": "MUHAMMAD ZUKHRUF MUJAHID",
+        "kelas": "XI RPL 2"
+    },
+    {
+        "id": "56",
+        "nis": "222310105",
+        "nama": "NAJWA IRA NURWAHDAH",
+        "kelas": "XI RPL 2"
+    },
+    {
+        "id": "57",
+        "nis": "222310107",
+        "nama": "RAFLI KAMAL MUSTOFA",
+        "kelas": "XI RPL 2"
+    },
+    {
+        "id": "58",
+        "nis": "222310139",
+        "nama": "RASYA ADITIA GUNAWAN",
+        "kelas": "XI RPL 2"
+    },
+    {
+        "id": "59",
+        "nis": "222310108",
+        "nama": "REVAN CAHYA RAMADHAN",
+        "kelas": "XI RPL 2"
+    },
+    {
+        "id": "60",
+        "nis": "222310140",
+        "nama": "RIDHO ANANDA ABYAN",
+        "kelas": "XI RPL 2"
+    },
+    {
+        "id": "61",
+        "nis": "222310142",
+        "nama": "SINTA NOVIANTI",
+        "kelas": "XI RPL 2"
+    },
+    {
+        "id": "62",
+        "nis": "222310144",
+        "nama": "WIDYAN WILIS SUKMANATA",
+        "kelas": "XI RPL 2"
+    },
+    {
+        "id": "63",
+        "nis": "222310114",
+        "nama": "YAZID YUSUF",
+        "kelas": "XI RPL 2"
+    },
+    {
+        "id": "64",
+        "nis": "222310147",
+        "nama": "ADITHYA HAMID PRATAMA",
+        "kelas": "XI RPL 3"
+    },
+    {
+        "id": "65",
+        "nis": "222310116",
+        "nama": "AHMAD DZAKY HERMAWAN",
+        "kelas": "XI RPL 3"
+    },
+    {
+        "id": "66",
+        "nis": "222310086",
+        "nama": "AHMAT RIDHO OKTAFIAN",
+        "kelas": "XI RPL 3"
+    },
+    {
+        "id": "67",
+        "nis": "222310292",
+        "nama": "ALBAQO FERGIE FRANSCISCO",
+        "kelas": "XI RPL 3"
+    },
+    {
+        "id": "68",
+        "nis": "222310149",
+        "nama": "ALI ZEFAN SYUKUR",
+        "kelas": "XI RPL 3"
+    },
+    {
+        "id": "69",
+        "nis": "222310118",
+        "nama": "ARYA MAHESA KUSUMAWARDHANI",
+        "kelas": "XI RPL 3"
+    },
+    {
+        "id": "70",
+        "nis": "222310089",
+        "nama": "AZIZA RIZKIA RAHMASHANI",
+        "kelas": "XI RPL 3"
+    },
+    {
+        "id": "71",
+        "nis": "222310119",
+        "nama": "BILQIS PUTRI JAMEELAH",
+        "kelas": "XI RPL 3"
+    },
+    {
+        "id": "72",
+        "nis": "222310122",
+        "nama": "EUWLIPIN NATANOEL SAUDALE",
+        "kelas": "XI RPL 3"
+    },
+    {
+        "id": "73",
+        "nis": "222310123",
+        "nama": "FAIZ THORIQ AL BANA",
+        "kelas": "XI RPL 3"
+    },
+    {
+        "id": "74",
+        "nis": "222310094",
+        "nama": "FARIS HADINATA",
+        "kelas": "XI RPL 3"
+    },
+    {
+        "id": "75",
+        "nis": "222310125",
+        "nama": "GALANG RAMADHAN",
+        "kelas": "XI RPL 3"
+    },
+    {
+        "id": "76",
+        "nis": "222310126",
+        "nama": "HAIKAL ALIF PASYA",
+        "kelas": "XI RPL 3"
+    },
+    {
+        "id": "77",
+        "nis": "222310159",
+        "nama": "HASNA HAFIDZAH IZDIHAR",
+        "kelas": "XI RPL 3"
+    },
+    {
+        "id": "78",
+        "nis": "222310161",
+        "nama": "IRFAN PRASETIYO",
+        "kelas": "XI RPL 3"
+    },
+    {
+        "id": "79",
+        "nis": "222310098",
+        "nama": "MALIK HIDAYAT",
+        "kelas": "XI RPL 3"
+    },
+    {
+        "id": "80",
+        "nis": "222310165",
+        "nama": "MOHAMMAD RAFLY FIRMANSYAH",
+        "kelas": "XI RPL 3"
+    },
+    {
+        "id": "81",
+        "nis": "222310099",
+        "nama": "MUHAMAD FAUZAN FADILLAH",
+        "kelas": "XI RPL 3"
+    },
+    {
+        "id": "82",
+        "nis": "222310168",
+        "nama": "MUHAMMAD ERVAN FEBRIANO",
+        "kelas": "XI RPL 3"
+    },
+    {
+        "id": "83",
+        "nis": "222310134",
+        "nama": "MUHAMMAD PRASTA NUR ALI",
+        "kelas": "XI RPL 3"
+    },
+    {
+        "id": "84",
+        "nis": "222310169",
+        "nama": "MUHAMMAD RADITYA AFIF RAHMAN",
+        "kelas": "XI RPL 3"
+    },
+    {
+        "id": "85",
+        "nis": "222310103",
+        "nama": "MUHAMMAD RAKHA ATHA PUTRA",
+        "kelas": "XI RPL 3"
+    },
+    {
+        "id": "86",
+        "nis": "222310135",
+        "nama": "MUHAMMAD ZAIDAAN AMIIRUDDIIN",
+        "kelas": "XI RPL 3"
+    },
+    {
+        "id": "87",
+        "nis": "222310136",
+        "nama": "NABILY AL ADLY NAWAL KAMAL",
+        "kelas": "XI RPL 3"
+    },
+    {
+        "id": "88",
+        "nis": "222310137",
+        "nama": "NAZWA ALIFA RAHMADHANI",
+        "kelas": "XI RPL 3"
+    },
+    {
+        "id": "89",
+        "nis": "222310172",
+        "nama": "RAFID ADRIYAN SAPUTRA",
+        "kelas": "XI RPL 3"
+    },
+    {
+        "id": "90",
+        "nis": "222310173",
+        "nama": "RAJWA NAIMA",
+        "kelas": "XI RPL 3"
+    },
+    {
+        "id": "91",
+        "nis": "222310109",
+        "nama": "RIZAL FERDIANSYAH",
+        "kelas": "XI RPL 3"
+    },
+    {
+        "id": "92",
+        "nis": "222310141",
+        "nama": "RIZKI HANIF SYAWALUDIN",
+        "kelas": "XI RPL 3"
+    },
+    {
+        "id": "93",
+        "nis": "222310110",
+        "nama": "SALMAN ILYAS ANNAFI",
+        "kelas": "XI RPL 3"
+    },
+    {
+        "id": "94",
+        "nis": "222310113",
+        "nama": "TALITHA EVANIA LARISSA",
+        "kelas": "XI RPL 3"
+    },
+    {
+        "id": "95",
+        "nis": "222310290",
+        "nama": "TANNU ADHIE WIJAYA",
+        "kelas": "XI RPL 3"
+    },
+    {
+        "id": "96",
+        "nis": "222310234",
+        "nama": "A.YULIA SETIA NUR ABADI",
+        "kelas": "XI TKJ 1"
+    },
+    {
+        "id": "97",
+        "nis": "222310178",
+        "nama": "AFIYATUZ ZAHIRA AHMAD",
+        "kelas": "XI TKJ 1"
+    },
+    {
+        "id": "98",
+        "nis": "222310179",
+        "nama": "AGIL KEYZA RAKESMALA",
+        "kelas": "XI TKJ 1"
+    },
+    {
+        "id": "99",
+        "nis": "222310180",
+        "nama": "AHMAD MALIK ARRAYYAN",
+        "kelas": "XI TKJ 1"
+    },
+    {
+        "id": "100",
+        "nis": "222310209",
+        "nama": "ALVITO ISMAIL PASHA",
+        "kelas": "XI TKJ 1"
+    },
+    {
+        "id": "101",
+        "nis": "222310239",
+        "nama": "AMARE TRYPUTRA MUHARAM",
+        "kelas": "XI TKJ 1"
+    },
+    {
+        "id": "102",
+        "nis": "222310184",
+        "nama": "BAGAS EDI SAPUTRO",
+        "kelas": "XI TKJ 1"
+    },
+    {
+        "id": "103",
+        "nis": "222310185",
+        "nama": "DANY NUR ALIF",
+        "kelas": "XI TKJ 1"
+    },
+    {
+        "id": "104",
+        "nis": "222310214",
+        "nama": "FADHILLAH MUHAMMAD NUR HAFIZ",
+        "kelas": "XI TKJ 1"
+    },
+    {
+        "id": "105",
+        "nis": "222310243",
+        "nama": "FAKHRI MULYANA YUSUF",
+        "kelas": "XI TKJ 1"
+    },
+    {
+        "id": "106",
+        "nis": "222310190",
+        "nama": "KLEMENTINA RAFAELA ABUK ASA",
+        "kelas": "XI TKJ 1"
+    },
+    {
+        "id": "107",
+        "nis": "222310217",
+        "nama": "LAILLA SHELVINA PUTRI",
+        "kelas": "XI TKJ 1"
+    },
+    {
+        "id": "108",
+        "nis": "222310220",
+        "nama": "MOHAMAD NAUFAL MUBAROK",
+        "kelas": "XI TKJ 1"
+    },
+    {
+        "id": "109",
+        "nis": "222310247",
+        "nama": "MUHAMAD FATHIR ARLIANSAH",
+        "kelas": "XI TKJ 1"
+    },
+    {
+        "id": "110",
+        "nis": "222310221",
+        "nama": "MUHAMMAD DAFA FIRDAUS",
+        "kelas": "XI TKJ 1"
+    },
+    {
+        "id": "111",
+        "nis": "222310251",
+        "nama": "MUHAMMAD FARRAS HAZIM",
+        "kelas": "XI TKJ 1"
+    },
+    {
+        "id": "112",
+        "nis": "222310195",
+        "nama": "MUHAMMAD FIQIH ARDIANSYAH",
+        "kelas": "XI TKJ 1"
+    },
+    {
+        "id": "113",
+        "nis": "222310253",
+        "nama": "MUHAMMAD YAZID MAULANA YUSUF",
+        "kelas": "XI TKJ 1"
+    },
+    {
+        "id": "114",
+        "nis": "222310197",
+        "nama": "MULIA HASAN BASRI D.",
+        "kelas": "XI TKJ 1"
+    },
+    {
+        "id": "115",
+        "nis": "222310254",
+        "nama": "NAFISA NOVIYANTI",
+        "kelas": "XI TKJ 1"
+    },
+    {
+        "id": "116",
+        "nis": "222310226",
+        "nama": "NURUL AINI",
+        "kelas": "XI TKJ 1"
+    },
+    {
+        "id": "117",
+        "nis": "222310227",
+        "nama": "PANDU HILMY DIANDRA PUTRA",
+        "kelas": "XI TKJ 1"
+    },
+    {
+        "id": "118",
+        "nis": "222310293",
+        "nama": "PANJI HANNYBAMA RIBYANTO",
+        "kelas": "XI TKJ 1"
+    },
+    {
+        "id": "119",
+        "nis": "222310256",
+        "nama": "QAISH ABU BAKAR AS-SHIDIQ",
+        "kelas": "XI TKJ 1"
+    },
+    {
+        "id": "120",
+        "nis": "222310257",
+        "nama": "RAFFANDI DANISH WIDIYATNA",
+        "kelas": "XI TKJ 1"
+    },
+    {
+        "id": "121",
+        "nis": "222310285",
+        "nama": "RAIHAN RIZQI MAULANA",
+        "kelas": "XI TKJ 1"
+    },
+    {
+        "id": "122",
+        "nis": "222310229",
+        "nama": "RAKA ACHMAD DJAELANI",
+        "kelas": "XI TKJ 1"
+    },
+    {
+        "id": "123",
+        "nis": "222310231",
+        "nama": "SHAFA JAUZA RAMADHANI",
+        "kelas": "XI TKJ 1"
+    },
+    {
+        "id": "124",
+        "nis": "222310177",
+        "nama": "ABIYYU VELDINIO",
+        "kelas": "XI TKJ 2"
+    },
+    {
+        "id": "125",
+        "nis": "222310206",
+        "nama": "AGUNG SUSILA PUTRA",
+        "kelas": "XI TKJ 2"
+    },
+    {
+        "id": "126",
+        "nis": "222310236",
+        "nama": "AHMAD FAZRI SETIAWAN",
+        "kelas": "XI TKJ 2"
+    },
+    {
+        "id": "127",
+        "nis": "222310207",
+        "nama": "AHMAD ZAIDAN RIZKY HERWANTO",
+        "kelas": "XI TKJ 2"
+    },
+    {
+        "id": "128",
+        "nis": "222310208",
+        "nama": "AISYAH MAULIDIA",
+        "kelas": "XI TKJ 2"
+    },
+    {
+        "id": "129",
+        "nis": "222310238",
+        "nama": "ALFA YUDHA TRI VIDHIYANSYAH",
+        "kelas": "XI TKJ 2"
+    },
+    {
+        "id": "130",
+        "nis": "222310182",
+        "nama": "AMBRI ALUN SAMUDRA",
+        "kelas": "XI TKJ 2"
+    },
+    {
+        "id": "131",
+        "nis": "222310240",
+        "nama": "ANGGA PRASETIYO",
+        "kelas": "XI TKJ 2"
+    },
+    {
+        "id": "132",
+        "nis": "222310211",
+        "nama": "ARYA HADI RAMDHANI",
+        "kelas": "XI TKJ 2"
+    },
+    {
+        "id": "133",
+        "nis": "222310241",
+        "nama": "AULIA ABDUL AZIS",
+        "kelas": "XI TKJ 2"
+    },
+    {
+        "id": "134",
+        "nis": "222310212",
+        "nama": "BIMA REZA SYAHPUTRA",
+        "kelas": "XI TKJ 2"
+    },
+    {
+        "id": "135",
+        "nis": "222310291",
+        "nama": "DIAN AKHRAS KURNIA",
+        "kelas": "XI TKJ 2"
+    },
+    {
+        "id": "136",
+        "nis": "222310186",
+        "nama": "ESTHY NASWA NATHANIA",
+        "kelas": "XI TKJ 2"
+    },
+    {
+        "id": "137",
+        "nis": "222310187",
+        "nama": "FADHIL RAMADHAN",
+        "kelas": "XI TKJ 2"
+    },
+    {
+        "id": "138",
+        "nis": "222310244",
+        "nama": "FAHMI MUHAIMIN",
+        "kelas": "XI TKJ 2"
+    },
+    {
+        "id": "139",
+        "nis": "222310246",
+        "nama": "HIKMAH NUR AISYAH",
+        "kelas": "XI TKJ 2"
+    },
+    {
+        "id": "140",
+        "nis": "222310189",
+        "nama": "IMAN FADILLAH",
+        "kelas": "XI TKJ 2"
+    },
+    {
+        "id": "141",
+        "nis": "222310218",
+        "nama": "M. FAHRI AL KHAFI",
+        "kelas": "XI TKJ 2"
+    },
+    {
+        "id": "142",
+        "nis": "222310249",
+        "nama": "MUHAMMAD ARYO WIBOWO",
+        "kelas": "XI TKJ 2"
+    },
+    {
+        "id": "143",
+        "nis": "222310194",
+        "nama": "MUHAMMAD FACHRIEL BUCHORI",
+        "kelas": "XI TKJ 2"
+    },
+    {
+        "id": "144",
+        "nis": "222310252",
+        "nama": "MUHAMMAD HAFIZH FIRDAUS",
+        "kelas": "XI TKJ 2"
+    },
+    {
+        "id": "145",
+        "nis": "222310196",
+        "nama": "MUHAMMAD RIJIQ ARRABI",
+        "kelas": "XI TKJ 2"
+    },
+    {
+        "id": "146",
+        "nis": "222310219",
+        "nama": "MUHAMMAD RIZKY TAMMAM ADYTIA",
+        "kelas": "XI TKJ 2"
+    },
+    {
+        "id": "147",
+        "nis": "222310224",
+        "nama": "NAJIB SHADDAD",
+        "kelas": "XI TKJ 2"
+    },
+    {
+        "id": "148",
+        "nis": "222310225",
+        "nama": "NAJLA HASNA NABILAH",
+        "kelas": "XI TKJ 2"
+    },
+    {
+        "id": "149",
+        "nis": "222310255",
+        "nama": "NAUFAL ADIRAINO",
+        "kelas": "XI TKJ 2"
+    },
+    {
+        "id": "150",
+        "nis": "222310198",
+        "nama": "NAUFAL AZKA PUTRA AMALUDIN",
+        "kelas": "XI TKJ 2"
+    },
+    {
+        "id": "151",
+        "nis": "222310200",
+        "nama": "RADITYA YUSUF NUR FATHIRLLAH",
+        "kelas": "XI TKJ 2"
+    },
+    {
+        "id": "152",
+        "nis": "222310203",
+        "nama": "SEPTIA AYU WULANDARI",
+        "kelas": "XI TKJ 2"
+    },
+    {
+        "id": "153",
+        "nis": "222310235",
+        "nama": "ABIEL KUSUMA PUTRA RAMADHAN",
+        "kelas": "XI TKJ 3"
+    },
+    {
+        "id": "154",
+        "nis": "222310237",
+        "nama": "AISYAH",
+        "kelas": "XI TKJ 3"
+    },
+    {
+        "id": "155",
+        "nis": "222310181",
+        "nama": "ALIF ALFARIZI",
+        "kelas": "XI TKJ 3"
+    },
+    {
+        "id": "156",
+        "nis": "222310183",
+        "nama": "AULIA DESTI ANGGRAINI",
+        "kelas": "XI TKJ 3"
+    },
+    {
+        "id": "157",
+        "nis": "222310242",
+        "nama": "DAMAR ABDI FAEYZA",
+        "kelas": "XI TKJ 3"
+    },
+    {
+        "id": "158",
+        "nis": "222310213",
+        "nama": "ERYK NYELA DIO",
+        "kelas": "XI TKJ 3"
+    },
+    {
+        "id": "159",
+        "nis": "222310188",
+        "nama": "FARIS SYADDAAD SAPUTRA",
+        "kelas": "XI TKJ 3"
+    },
+    {
+        "id": "160",
+        "nis": "222310215",
+        "nama": "FATHUR ARYA SUSENA",
+        "kelas": "XI TKJ 3"
+    },
+    {
+        "id": "161",
+        "nis": "222310245",
+        "nama": "FATIH TRI HARJUANDI",
+        "kelas": "XI TKJ 3"
+    },
+    {
+        "id": "162",
+        "nis": "222310216",
+        "nama": "GHOITSA MU'THIYA ISHMAH",
+        "kelas": "XI TKJ 3"
+    },
+    {
+        "id": "163",
+        "nis": "222310248",
+        "nama": "MOHAMMAD ZUL QORNAIN",
+        "kelas": "XI TKJ 3"
+    },
+    {
+        "id": "164",
+        "nis": "222310192",
+        "nama": "MUHAMAD BILRIZKI",
+        "kelas": "XI TKJ 3"
+    },
+    {
+        "id": "165",
+        "nis": "222310193",
+        "nama": "MUHAMMAD AZHAR PRATAMA ARIANTO",
+        "kelas": "XI TKJ 3"
+    },
+    {
+        "id": "166",
+        "nis": "222310191",
+        "nama": "MUHAMMAD AZRIL ACHDI",
+        "kelas": "XI TKJ 3"
+    },
+    {
+        "id": "167",
+        "nis": "222310250",
+        "nama": "MUHAMMAD DAFFA ALKINDI",
+        "kelas": "XI TKJ 3"
+    },
+    {
+        "id": "168",
+        "nis": "222310222",
+        "nama": "MUHAMMAD FAISAL HAFIDZ",
+        "kelas": "XI TKJ 3"
+    },
+    {
+        "id": "169",
+        "nis": "222310223",
+        "nama": "MUHAMMAD SAHRU EKA SYAHLEVY",
+        "kelas": "XI TKJ 3"
+    },
+    {
+        "id": "170",
+        "nis": "222310199",
+        "nama": "NAYLA RACHMAWATI ASY-SYIFA",
+        "kelas": "XI TKJ 3"
+    },
+    {
+        "id": "171",
+        "nis": "222310228",
+        "nama": "RAFFA BUDHI PRATAMA",
+        "kelas": "XI TKJ 3"
+    },
+    {
+        "id": "172",
+        "nis": "222310201",
+        "nama": "RAJWA RAFIF AGUSLI",
+        "kelas": "XI TKJ 3"
+    },
+    {
+        "id": "173",
+        "nis": "222310258",
+        "nama": "RANDY AHMAD ALIFI",
+        "kelas": "XI TKJ 3"
+    },
+    {
+        "id": "174",
+        "nis": "222310202",
+        "nama": "RAYHAN WAJENDRA FARUQ",
+        "kelas": "XI TKJ 3"
+    },
+    {
+        "id": "175",
+        "nis": "222310259",
+        "nama": "RAZWA MAWLA AL-RAFFI",
+        "kelas": "XI TKJ 3"
+    },
+    {
+        "id": "176",
+        "nis": "222310230",
+        "nama": "RENOLD ABI WIJAYA",
+        "kelas": "XI TKJ 3"
+    },
+    {
+        "id": "177",
+        "nis": "222310260",
+        "nama": "RIZKI ANUGRAH BUCHORI",
+        "kelas": "XI TKJ 3"
+    },
+    {
+        "id": "178",
+        "nis": "222310261",
+        "nama": "SHAFA NAILAH HUTAJULU",
+        "kelas": "XI TKJ 3"
+    },
+    {
+        "id": "179",
+        "nis": "222310204",
+        "nama": "SYERIL NURUL FHATYA",
+        "kelas": "XI TKJ 3"
+    },
+    {
+        "id": "180",
+        "nis": "222310233",
+        "nama": "YAZID YASKUR MUHAMMAD",
+        "kelas": "XI TKJ 3"
+    },
+    {
+        "id": "181",
+        "nis": "222310001",
+        "nama": "ABIY FATHIN NUGROHO",
+        "kelas": "XI DKV 1"
+    },
+    {
+        "id": "182",
+        "nis": "222310056",
+        "nama": "AZKA ROSYIDYA WIDODARI",
+        "kelas": "XI DKV 1"
+    },
+    {
+        "id": "183",
+        "nis": "222310032",
+        "nama": "DZAKI MAULANA AHMAD",
+        "kelas": "XI DKV 1"
+    },
+    {
+        "id": "184",
+        "nis": "222310060",
+        "nama": "FAIZ SAHAL MAHFUDZ",
+        "kelas": "XI DKV 1"
+    },
+    {
+        "id": "185",
+        "nis": "222310033",
+        "nama": "FARAH ANNISA",
+        "kelas": "XI DKV 1"
+    },
+    {
+        "id": "186",
+        "nis": "222310062",
+        "nama": "FAWALIDAH MUKAROMAH HARAHAP",
+        "kelas": "XI DKV 1"
+    },
+    {
+        "id": "187",
+        "nis": "222310008",
+        "nama": "FINANDA SEPTIA NINGRUM",
+        "kelas": "XI DKV 1"
+    },
+    {
+        "id": "188",
+        "nis": "222310063",
+        "nama": "HANIFA AZZAHRA",
+        "kelas": "XI DKV 1"
+    },
+    {
+        "id": "189",
+        "nis": "222310036",
+        "nama": "HELENA FELISHA PORTELI",
+        "kelas": "XI DKV 1"
+    },
+    {
+        "id": "190",
+        "nis": "222310012",
+        "nama": "LUTHFIAH NUUR FAATIN",
+        "kelas": "XI DKV 1"
+    },
+    {
+        "id": "191",
+        "nis": "222310013",
+        "nama": "MALIQ RANGGA ARRASI",
+        "kelas": "XI DKV 1"
+    },
+    {
+        "id": "192",
+        "nis": "222310067",
+        "nama": "MUHAMAD DIARA PUTRA HARIANTO",
+        "kelas": "XI DKV 1"
+    },
+    {
+        "id": "193",
+        "nis": "222310041",
+        "nama": "MUHAMMAD FAISAL RAHMAT",
+        "kelas": "XI DKV 1"
+    },
+    {
+        "id": "194",
+        "nis": "222310068",
+        "nama": "MUHAMMAD FAKHRI AR-RANTISI HENDRO SUBAGIO",
+        "kelas": "XI DKV 1"
+    },
+    {
+        "id": "195",
+        "nis": "222310042",
+        "nama": "MUHAMMAD FARLY",
+        "kelas": "XI DKV 1"
+    },
+    {
+        "id": "196",
+        "nis": "222310069",
+        "nama": "MUHAMMAD RAFFI BAGUS SAPUTRA",
+        "kelas": "XI DKV 1"
+    },
+    {
+        "id": "197",
+        "nis": "222310044",
+        "nama": "NAFISAH NAILAL NADINE",
+        "kelas": "XI DKV 1"
+    },
+    {
+        "id": "198",
+        "nis": "222310072",
+        "nama": "NAYA RAINI SABIAN",
+        "kelas": "XI DKV 1"
+    },
+    {
+        "id": "199",
+        "nis": "222310019",
+        "nama": "NAYLA IZZA",
+        "kelas": "XI DKV 1"
+    },
+    {
+        "id": "200",
+        "nis": "222310047",
+        "nama": "NIKOLAS SAPUTRA",
+        "kelas": "XI DKV 1"
+    },
+    {
+        "id": "201",
+        "nis": "222310020",
+        "nama": "NUR RAHADATUL 'AISYI",
+        "kelas": "XI DKV 1"
+    },
+    {
+        "id": "202",
+        "nis": "222310021",
+        "nama": "PUTRA RAJENDRA SAFI RAMADHAN",
+        "kelas": "XI DKV 1"
+    },
+    {
+        "id": "203",
+        "nis": "222310048",
+        "nama": "PUTRI ZAKIATUL ULYA",
+        "kelas": "XI DKV 1"
+    },
+    {
+        "id": "204",
+        "nis": "222310023",
+        "nama": "RAISYA DWI FADHILAH",
+        "kelas": "XI DKV 1"
+    },
+    {
+        "id": "205",
+        "nis": "222310078",
+        "nama": "REVALINA NUR ANISA SETYARINI",
+        "kelas": "XI DKV 1"
+    },
+    {
+        "id": "206",
+        "nis": "222310053",
+        "nama": "RIFQI SALMAN",
+        "kelas": "XI DKV 1"
+    },
+    {
+        "id": "207",
+        "nis": "222310027",
+        "nama": "WINDI ALLYSIA KODRATULLAH",
+        "kelas": "XI DKV 1"
+    },
+    {
+        "id": "208",
+        "nis": "222310002",
+        "nama": "ALISA APRILIA RIZKI",
+        "kelas": "XI DKV 2"
+    },
+    {
+        "id": "209",
+        "nis": "222310029",
+        "nama": "ARLIANO PANDU RIZKYSEGARA HANIRTA",
+        "kelas": "XI DKV 2"
+    },
+    {
+        "id": "210",
+        "nis": "222310031",
+        "nama": "CHELSY OLIVIA PUTRI",
+        "kelas": "XI DKV 2"
+    },
+    {
+        "id": "211",
+        "nis": "222310005",
+        "nama": "DAFFA' LUTHFITA SARI",
+        "kelas": "XI DKV 2"
+    },
+    {
+        "id": "212",
+        "nis": "222310006",
+        "nama": "FAKHRI HADIMAS SURYA",
+        "kelas": "XI DKV 2"
+    },
+    {
+        "id": "213",
+        "nis": "222310007",
+        "nama": "FATHIRRIFQI CESARIO",
+        "kelas": "XI DKV 2"
+    },
+    {
+        "id": "214",
+        "nis": "222310035",
+        "nama": "HALIZA AULIA NUR AURA",
+        "kelas": "XI DKV 2"
+    },
+    {
+        "id": "215",
+        "nis": "222310064",
+        "nama": "INTAN ZALFA AZZAHRA",
+        "kelas": "XI DKV 2"
+    },
+    {
+        "id": "216",
+        "nis": "222310038",
+        "nama": "LAUDYA DESVIANI PUTRI",
+        "kelas": "XI DKV 2"
+    },
+    {
+        "id": "217",
+        "nis": "222310065",
+        "nama": "LULU KHALILA KARIB",
+        "kelas": "XI DKV 2"
+    },
+    {
+        "id": "218",
+        "nis": "222310039",
+        "nama": "MAGHFIRA IZZANI KHOIRUNNISA",
+        "kelas": "XI DKV 2"
+    },
+    {
+        "id": "219",
+        "nis": "222310040",
+        "nama": "MICHAEL PUTRA MARTHEN",
+        "kelas": "XI DKV 2"
+    },
+    {
+        "id": "220",
+        "nis": "222310066",
+        "nama": "MOZA KIRANA PUTRI",
+        "kelas": "XI DKV 2"
+    },
+    {
+        "id": "221",
+        "nis": "222310015",
+        "nama": "MUHAMMAD FARHAN",
+        "kelas": "XI DKV 2"
+    },
+    {
+        "id": "222",
+        "nis": "222310070",
+        "nama": "MUHAMMAD ZIKRI FAUZAN",
+        "kelas": "XI DKV 2"
+    },
+    {
+        "id": "223",
+        "nis": "222310017",
+        "nama": "NADIA KIREIKO PUTRI DAVID",
+        "kelas": "XI DKV 2"
+    },
+    {
+        "id": "224",
+        "nis": "222310071",
+        "nama": "NAFISAH SHIFA AZZAHRA",
+        "kelas": "XI DKV 2"
+    },
+    {
+        "id": "225",
+        "nis": "222310046",
+        "nama": "NAYLA OKTAVIANA JUSUF",
+        "kelas": "XI DKV 2"
+    },
+    {
+        "id": "226",
+        "nis": "222310074",
+        "nama": "NOVRIAL VALDERAMA HINELO",
+        "kelas": "XI DKV 2"
+    },
+    {
+        "id": "227",
+        "nis": "222310022",
+        "nama": "QUINI AULIA PUAN PAMBUDI",
+        "kelas": "XI DKV 2"
+    },
+    {
+        "id": "228",
+        "nis": "222310049",
+        "nama": "RAFEE ZAYDAN",
+        "kelas": "XI DKV 2"
+    },
+    {
+        "id": "229",
+        "nis": "222310050",
+        "nama": "RAHMANIA WIDYA UTAMI",
+        "kelas": "XI DKV 2"
+    },
+    {
+        "id": "230",
+        "nis": "222310077",
+        "nama": "RAKKI ATALLA SOFYAN",
+        "kelas": "XI DKV 2"
+    },
+    {
+        "id": "231",
+        "nis": "222310052",
+        "nama": "REVALINA NOVALA PUTERI",
+        "kelas": "XI DKV 2"
+    },
+    {
+        "id": "232",
+        "nis": "222310025",
+        "nama": "RIFKY ADITYA RAMADHAN",
+        "kelas": "XI DKV 2"
+    },
+    {
+        "id": "233",
+        "nis": "222310081",
+        "nama": "TEGAR ZAIN ROBBANIYA",
+        "kelas": "XI DKV 2"
+    },
+    {
+        "id": "234",
+        "nis": "222310082",
+        "nama": "VANIA NANDA SAFIRA",
+        "kelas": "XI DKV 2"
+    },
+    {
+        "id": "235",
+        "nis": "222310028",
+        "nama": "ANISHA TRI AGUSTINA",
+        "kelas": "XI DKV 3"
+    },
+    {
+        "id": "236",
+        "nis": "222310057",
+        "nama": "AZZUAN NEVAN SYAKIEB",
+        "kelas": "XI DKV 3"
+    },
+    {
+        "id": "237",
+        "nis": "222310003",
+        "nama": "BAGUS BARKHAWA TANAWIY",
+        "kelas": "XI DKV 3"
+    },
+    {
+        "id": "238",
+        "nis": "222310030",
+        "nama": "BILLY HANSKELSEN",
+        "kelas": "XI DKV 3"
+    },
+    {
+        "id": "239",
+        "nis": "222310004",
+        "nama": "CANTIKA FITRI HANIA NASUTION",
+        "kelas": "XI DKV 3"
+    },
+    {
+        "id": "240",
+        "nis": "222310058",
+        "nama": "CLAREN CLAUDIA ANGELICHA SUTRISNO",
+        "kelas": "XI DKV 3"
+    },
+    {
+        "id": "241",
+        "nis": "222310059",
+        "nama": "DAFFA RIFQI NUGROHO",
+        "kelas": "XI DKV 3"
+    },
+    {
+        "id": "242",
+        "nis": "222310061",
+        "nama": "FARHAN FERDIANSYAH",
+        "kelas": "XI DKV 3"
+    },
+    {
+        "id": "243",
+        "nis": "222310034",
+        "nama": "FARHAN ILYAS",
+        "kelas": "XI DKV 3"
+    },
+    {
+        "id": "244",
+        "nis": "222310037",
+        "nama": "IBNU RAFIF SURYADINATA",
+        "kelas": "XI DKV 3"
+    },
+    {
+        "id": "245",
+        "nis": "222310010",
+        "nama": "JDIO VANNY SUGANTA",
+        "kelas": "XI DKV 3"
+    },
+    {
+        "id": "246",
+        "nis": "222310011",
+        "nama": "KARTIKA FIRDA OKTAVIA",
+        "kelas": "XI DKV 3"
+    },
+    {
+        "id": "247",
+        "nis": "222310014",
+        "nama": "MUHAMMAD DZIKRI AGNIA",
+        "kelas": "XI DKV 3"
+    },
+    {
+        "id": "248",
+        "nis": "222310016",
+        "nama": "MUHAMMAD RASYA",
+        "kelas": "XI DKV 3"
+    },
+    {
+        "id": "249",
+        "nis": "222310043",
+        "nama": "MUHAMMAD SHIDDIQ ATHALLAH",
+        "kelas": "XI DKV 3"
+    },
+    {
+        "id": "250",
+        "nis": "222310045",
+        "nama": "NATASYA FITRIYANI",
+        "kelas": "XI DKV 3"
+    },
+    {
+        "id": "251",
+        "nis": "222310018",
+        "nama": "NAUFAL AZIS",
+        "kelas": "XI DKV 3"
+    },
+    {
+        "id": "252",
+        "nis": "222310073",
+        "nama": "NAYLA RAMADHANI",
+        "kelas": "XI DKV 3"
+    },
+    {
+        "id": "253",
+        "nis": "222310075",
+        "nama": "QONITAH HAFIDZOH",
+        "kelas": "XI DKV 3"
+    },
+    {
+        "id": "254",
+        "nis": "222310076",
+        "nama": "RAIHANISA RIZKIKA TSANI",
+        "kelas": "XI DKV 3"
+    },
+    {
+        "id": "255",
+        "nis": "222310024",
+        "nama": "RAMA RAMADHAN WR",
+        "kelas": "XI DKV 3"
+    },
+    {
+        "id": "256",
+        "nis": "222310051",
+        "nama": "RASHIF ARSYAH SETIADI",
+        "kelas": "XI DKV 3"
+    },
+    {
+        "id": "257",
+        "nis": "222310079",
+        "nama": "REYKY MORALLES AL ZHARESKY",
+        "kelas": "XI DKV 3"
+    },
+    {
+        "id": "258",
+        "nis": "222310026",
+        "nama": "RUTH MASAULINA MARPAUNG",
+        "kelas": "XI DKV 3"
+    },
+    {
+        "id": "259",
+        "nis": "222310054",
+        "nama": "SABRINA NUR AZIZAH",
+        "kelas": "XI DKV 3"
+    },
+    {
+        "id": "260",
+        "nis": "222310080",
+        "nama": "SYARAH RAMADHANI",
+        "kelas": "XI DKV 3"
+    },
+    {
+        "id": "261",
+        "nis": "222310055",
+        "nama": "ZASKIA PUTRY KARIMA",
+        "kelas": "XI DKV 3"
+    },
+    {
+        "id": "262",
+        "nis": "222310083",
+        "nama": "ZHAFIRA KHAYLA AUNI",
+        "kelas": "XI DKV 3"
+    },
+    {
+        "id": "263",
+        "nis": "222310262",
+        "nama": "ABI FAUZA RAMADHAN",
+        "kelas": "XI TELCO"
+    },
+    {
+        "id": "264",
+        "nis": "222310263",
+        "nama": "AHMAD HERMAWAN",
+        "kelas": "XI TELCO"
+    },
+    {
+        "id": "265",
+        "nis": "222310264",
+        "nama": "ASTIAN PUTRA",
+        "kelas": "XI TELCO"
+    },
+    {
+        "id": "266",
+        "nis": "222310265",
+        "nama": "CHIEVO RAY OCTAVIANO",
+        "kelas": "XI TELCO"
+    },
+    {
+        "id": "267",
+        "nis": "222310267",
+        "nama": "EVAN FILBERT",
+        "kelas": "XI TELCO"
+    },
+    {
+        "id": "268",
+        "nis": "222310266",
+        "nama": "EZRA PUTRA HENDRI",
+        "kelas": "XI TELCO"
+    },
+    {
+        "id": "269",
+        "nis": "222310268",
+        "nama": "FAISAL IMAM SAMUDRA",
+        "kelas": "XI TELCO"
+    },
+    {
+        "id": "270",
+        "nis": "222310269",
+        "nama": "FEBRIAN ATHA NUR ARIF",
+        "kelas": "XI TELCO"
+    },
+    {
+        "id": "271",
+        "nis": "222310270",
+        "nama": "GHEANEVA VE LOVE PRASVINA",
+        "kelas": "XI TELCO"
+    },
+    {
+        "id": "272",
+        "nis": "222310271",
+        "nama": "HAIKAL DANDA FIRDAUS",
+        "kelas": "XI TELCO"
+    },
+    {
+        "id": "273",
+        "nis": "222310272",
+        "nama": "HASAN WIRA BUANA",
+        "kelas": "XI TELCO"
+    },
+    {
+        "id": "274",
+        "nis": "222310273",
+        "nama": "IRFAN NASTA'IN HUDA HARIYANTO",
+        "kelas": "XI TELCO"
+    },
+    {
+        "id": "275",
+        "nis": "222310274",
+        "nama": "JIBRAN NABIL ABDUL HAKIM",
+        "kelas": "XI TELCO"
+    },
+    {
+        "id": "276",
+        "nis": "222310275",
+        "nama": "MARCELL ADHY WINATA",
+        "kelas": "XI TELCO"
+    },
+    {
+        "id": "277",
+        "nis": "222310276",
+        "nama": "MARCO TIMOTY",
+        "kelas": "XI TELCO"
+    },
+    {
+        "id": "278",
+        "nis": "222310277",
+        "nama": "MOHAMAD IBNU NURROYAN",
+        "kelas": "XI TELCO"
+    },
+    {
+        "id": "279",
+        "nis": "222310278",
+        "nama": "MUHAMMAD DWI RANGGA",
+        "kelas": "XI TELCO"
+    },
+    {
+        "id": "280",
+        "nis": "222310279",
+        "nama": "MUHAMMAD SHEFA DIAZ PUTRA",
+        "kelas": "XI TELCO"
+    },
+    {
+        "id": "281",
+        "nis": "222310280",
+        "nama": "MUHAMMAD THOHA",
+        "kelas": "XI TELCO"
+    },
+    {
+        "id": "282",
+        "nis": "222310281",
+        "nama": "MUHAMMAD ZAHRAAN PUTRA SANDITA",
+        "kelas": "XI TELCO"
+    },
+    {
+        "id": "283",
+        "nis": "222310282",
+        "nama": "NUR FAUZAN  ILHAM",
+        "kelas": "XI TELCO"
+    },
+    {
+        "id": "284",
+        "nis": "222310283",
+        "nama": "NUR FAUZI ILHAM",
+        "kelas": "XI TELCO"
+    },
+    {
+        "id": "285",
+        "nis": "222310284",
+        "nama": "RADITYA EKA PUTRA",
+        "kelas": "XI TELCO"
+    },
+    {
+        "id": "286",
+        "nis": "222310286",
+        "nama": "RAMA KUSUMA PRADANA",
+        "kelas": "XI TELCO"
+    },
+    {
+        "id": "287",
+        "nis": "222310287",
+        "nama": "SULTAN MOYOZ PAHINGGUAN",
+        "kelas": "XI TELCO"
+    },
+    {
+        "id": "288",
+        "nis": "222310288",
+        "nama": "UMAR SANTOSO",
+        "kelas": "XI TELCO"
+    },
+    {
+        "id": "289",
+        "nis": "222310289",
+        "nama": "ZYSYAR DAVA PEBRIAN",
+        "kelas": "XI TELCO"
+    },
+    {
+        "id": "290",
+        "nis": "212210025",
+        "nama": "ABDILLAH WALIYYU RIZKY FIRDAUS",
+        "kelas": "XII RPL 1"
+    },
+    {
+        "id": "291",
+        "nis": "212210218",
+        "nama": "ADINDA PUTRI KHALISTA",
+        "kelas": "XII RPL 1"
+    },
+    {
+        "id": "292",
+        "nis": "212210029",
+        "nama": "AMIRUDIN FARUQ ARIEF",
+        "kelas": "XII RPL 1"
+    },
+    {
+        "id": "293",
+        "nis": "212210030",
+        "nama": "ARZETI NISFU SYABILLA",
+        "kelas": "XII RPL 1"
+    },
+    {
+        "id": "294",
+        "nis": "212210006",
+        "nama": "BAYU SYAIBAN ASWA",
+        "kelas": "XII RPL 1"
+    },
+    {
+        "id": "295",
+        "nis": "212210007",
+        "nama": "CAHYANING SESSA LESTARI",
+        "kelas": "XII RPL 1"
+    },
+    {
+        "id": "296",
+        "nis": "212210008",
+        "nama": "DEA ANASTASIA PRIADI",
+        "kelas": "XII RPL 1"
+    },
+    {
+        "id": "297",
+        "nis": "212210033",
+        "nama": "DEVON JOHANES YUVALINO",
+        "kelas": "XII RPL 1"
+    },
+    {
+        "id": "298",
+        "nis": "212210009",
+        "nama": "DZAKY ABDUSSALAM",
+        "kelas": "XII RPL 1"
+    },
+    {
+        "id": "299",
+        "nis": "212210012",
+        "nama": "HADYAN GUMELAR",
+        "kelas": "XII RPL 1"
+    },
+    {
+        "id": "300",
+        "nis": "212210036",
+        "nama": "HAFIZH ARQAMILANDRI WAKHYUDI",
+        "kelas": "XII RPL 1"
+    },
+    {
+        "id": "301",
+        "nis": "212210014",
+        "nama": "IQBAL RIFKYANTO",
+        "kelas": "XII RPL 1"
+    },
+    {
+        "id": "302",
+        "nis": "212210015",
+        "nama": "JULIOEZ CANDITA HAGAFIGO LATUPEIRISSA",
+        "kelas": "XII RPL 1"
+    },
+    {
+        "id": "303",
+        "nis": "212210135",
+        "nama": "KENJI AHMAD DARELLY",
+        "kelas": "XII RPL 1"
+    },
+    {
+        "id": "304",
+        "nis": "212210039",
+        "nama": "KEVIN ARY HARDANA",
+        "kelas": "XII RPL 1"
+    },
+    {
+        "id": "305",
+        "nis": "212210017",
+        "nama": "M. YUSUF MAULANA RIZKI",
+        "kelas": "XII RPL 1"
+    },
+    {
+        "id": "306",
+        "nis": "212210041",
+        "nama": "MUHAMMAD SYAUQI RIJAL",
+        "kelas": "XII RPL 1"
+    },
+    {
+        "id": "307",
+        "nis": "212210043",
+        "nama": "NADIVA JUNIKA SYAFA NASUTION",
+        "kelas": "XII RPL 1"
+    },
+    {
+        "id": "308",
+        "nis": "212210020",
+        "nama": "NAUFAL GUSTI SAPUTRA",
+        "kelas": "XII RPL 1"
+    },
+    {
+        "id": "309",
+        "nis": "212210045",
+        "nama": "SALSABILA VIOLA DESTU",
+        "kelas": "XII RPL 1"
+    },
+    {
+        "id": "310",
+        "nis": "212210046",
+        "nama": "SEKAR AYU RAMADANI",
+        "kelas": "XII RPL 1"
+    },
+    {
+        "id": "311",
+        "nis": "212210047",
+        "nama": "TIARA YUNIPTA ANGGRAINI",
+        "kelas": "XII RPL 1"
+    },
+    {
+        "id": "312",
+        "nis": "212210023",
+        "nama": "VINCENTIUS OCTAVIAN FARREL",
+        "kelas": "XII RPL 1"
+    },
+    {
+        "id": "313",
+        "nis": "212210049",
+        "nama": "WILDAN FILZA AL FAIZ",
+        "kelas": "XII RPL 1"
+    },
+    {
+        "id": "314",
+        "nis": "212210024",
+        "nama": "YUDAN AKBAR ARKIAN",
+        "kelas": "XII RPL 1"
+    },
+    {
+        "id": "315",
+        "nis": "212210026",
+        "nama": "ACHMAD FAUZAN NOER SYAWAL",
+        "kelas": "XII RPL 2"
+    },
+    {
+        "id": "316",
+        "nis": "212210001",
+        "nama": "ADELLIA ZALFA AZZACHRA",
+        "kelas": "XII RPL 2"
+    },
+    {
+        "id": "317",
+        "nis": "212210027",
+        "nama": "ADIKA AUNURFIKRI NOVIYANTO",
+        "kelas": "XII RPL 2"
+    },
+    {
+        "id": "318",
+        "nis": "212210002",
+        "nama": "ADINDA NAILA NASYWA",
+        "kelas": "XII RPL 2"
+    },
+    {
+        "id": "319",
+        "nis": "212210003",
+        "nama": "AHMAD NABIL SEPTIANSYAH",
+        "kelas": "XII RPL 2"
+    },
+    {
+        "id": "320",
+        "nis": "212210004",
+        "nama": "AN NIDA RIZKY RAMADHANI",
+        "kelas": "XII RPL 2"
+    },
+    {
+        "id": "321",
+        "nis": "212210005",
+        "nama": "ARYA FADHIL AKBAR",
+        "kelas": "XII RPL 2"
+    },
+    {
+        "id": "322",
+        "nis": "212210031",
+        "nama": "BENEDIKTUS DWI ANDHIKA",
+        "kelas": "XII RPL 2"
+    },
+    {
+        "id": "323",
+        "nis": "212210032",
+        "nama": "CHIQUITA PUTRI NALINDI",
+        "kelas": "XII RPL 2"
+    },
+    {
+        "id": "324",
+        "nis": "212210035",
+        "nama": "ENGGAR TRI RAHMADHANI",
+        "kelas": "XII RPL 2"
+    },
+    {
+        "id": "325",
+        "nis": "212210010",
+        "nama": "FARIC ANDREVANO SIDHARTA",
+        "kelas": "XII RPL 2"
+    },
+    {
+        "id": "326",
+        "nis": "212210011",
+        "nama": "FRAHELENCE ELIYESIA HARNANTO",
+        "kelas": "XII RPL 2"
+    },
+    {
+        "id": "327",
+        "nis": "212210013",
+        "nama": "HAFIZUL HANIF",
+        "kelas": "XII RPL 2"
+    },
+    {
+        "id": "328",
+        "nis": "212210037",
+        "nama": "HANIF AIDIL RACHMAN",
+        "kelas": "XII RPL 2"
+    },
+    {
+        "id": "329",
+        "nis": "212210038",
+        "nama": "IVAN RAMADHAN",
+        "kelas": "XII RPL 2"
+    },
+    {
+        "id": "330",
+        "nis": "212210016",
+        "nama": "KEVIN PRASETYO",
+        "kelas": "XII RPL 2"
+    },
+    {
+        "id": "331",
+        "nis": "212210040",
+        "nama": "MUHAMMAD AZKA FAJRI MAHESWARA",
+        "kelas": "XII RPL 2"
+    },
+    {
+        "id": "332",
+        "nis": "212210018",
+        "nama": "MUHAMMAD IQBAL HANGGORO",
+        "kelas": "XII RPL 2"
+    },
+    {
+        "id": "333",
+        "nis": "212210042",
+        "nama": "MUHAMMAD ZAHRAN NUGROHO",
+        "kelas": "XII RPL 2"
+    },
+    {
+        "id": "334",
+        "nis": "212210019",
+        "nama": "NABILA ROSA AMALIA",
+        "kelas": "XII RPL 2"
+    },
+    {
+        "id": "335",
+        "nis": "212210021",
+        "nama": "PRIEKHA REVITA UTAMI",
+        "kelas": "XII RPL 2"
+    },
+    {
+        "id": "336",
+        "nis": "212210022",
+        "nama": "RAISSA RAFA AYDIN",
+        "kelas": "XII RPL 2"
+    },
+    {
+        "id": "337",
+        "nis": "212210044",
+        "nama": "SALSABILA MIFTAH NURAFIAH",
+        "kelas": "XII RPL 2"
+    },
+    {
+        "id": "338",
+        "nis": "212210048",
+        "nama": "TITAN DWI PRAKOSO",
+        "kelas": "XII RPL 2"
+    },
+    {
+        "id": "339",
+        "nis": "212210101",
+        "nama": "ADITYA DWI CAHYA",
+        "kelas": "XII TKJ 1"
+    },
+    {
+        "id": "340",
+        "nis": "212210051",
+        "nama": "AHVAZ HAIDAR GAZA W.",
+        "kelas": "XII TKJ 1"
+    },
+    {
+        "id": "341",
+        "nis": "212210077",
+        "nama": "ALI FATHUROHMAN",
+        "kelas": "XII TKJ 1"
+    },
+    {
+        "id": "342",
+        "nis": "212210076",
+        "nama": "ALPIANSYAH HARIANJA",
+        "kelas": "XII TKJ 1"
+    },
+    {
+        "id": "343",
+        "nis": "212210107",
+        "nama": "GEONG SURYA ADI PUTRA",
+        "kelas": "XII TKJ 1"
+    },
+    {
+        "id": "344",
+        "nis": "212210055",
+        "nama": "HAIDAR KHAIRY PUTRA SUDRAJAT",
+        "kelas": "XII TKJ 1"
+    },
+    {
+        "id": "345",
+        "nis": "212210219",
+        "nama": "HUSAINI RIJAL WIRAWAN",
+        "kelas": "XII TKJ 1"
+    },
+    {
+        "id": "346",
+        "nis": "212210082",
+        "nama": "IITOSHI AZKA AUZAN",
+        "kelas": "XII TKJ 1"
+    },
+    {
+        "id": "347",
+        "nis": "212210108",
+        "nama": "IMANUEL MELANDRI MANIK",
+        "kelas": "XII TKJ 1"
+    },
+    {
+        "id": "348",
+        "nis": "212210085",
+        "nama": "MARCEL RONY MARBUN",
+        "kelas": "XII TKJ 1"
+    },
+    {
+        "id": "349",
+        "nis": "212210115",
+        "nama": "MOCHAMMAD JIDDAN ARMANSYIAH",
+        "kelas": "XII TKJ 1"
+    },
+    {
+        "id": "350",
+        "nis": "212210086",
+        "nama": "MUHAFIDZ SIDDIQ RACHMAN",
+        "kelas": "XII TKJ 1"
+    },
+    {
+        "id": "351",
+        "nis": "212210113",
+        "nama": "MUHAMAD FADHIL",
+        "kelas": "XII TKJ 1"
+    },
+    {
+        "id": "352",
+        "nis": "212210091",
+        "nama": "MUHAMAD NAJMI MICKY CASSILAS",
+        "kelas": "XII TKJ 1"
+    },
+    {
+        "id": "353",
+        "nis": "212210109",
+        "nama": "MUHAMMAD ARIF FADIL",
+        "kelas": "XII TKJ 1"
+    },
+    {
+        "id": "354",
+        "nis": "212210114",
+        "nama": "MUHAMMAD FUADI",
+        "kelas": "XII TKJ 1"
+    },
+    {
+        "id": "355",
+        "nis": "212210063",
+        "nama": "MUHAMMAD GAMEL AL GHIFARI",
+        "kelas": "XII TKJ 1"
+    },
+    {
+        "id": "356",
+        "nis": "212210090",
+        "nama": "MUHAMMAD IKRAM MAULANA",
+        "kelas": "XII TKJ 1"
+    },
+    {
+        "id": "357",
+        "nis": "212210065",
+        "nama": "MUHAMMAD RAMDAN",
+        "kelas": "XII TKJ 1"
+    },
+    {
+        "id": "358",
+        "nis": "212210095",
+        "nama": "NAUFAL FADHIL HILMI",
+        "kelas": "XII TKJ 1"
+    },
+    {
+        "id": "359",
+        "nis": "212210119",
+        "nama": "RAFI FAUZI RAHMATULLAH",
+        "kelas": "XII TKJ 1"
+    },
+    {
+        "id": "360",
+        "nis": "212210097",
+        "nama": "RAYNARD JONATHAN SIPAYUNG",
+        "kelas": "XII TKJ 1"
+    },
+    {
+        "id": "361",
+        "nis": "212210071",
+        "nama": "REYHAN PERMANA",
+        "kelas": "XII TKJ 1"
+    },
+    {
+        "id": "362",
+        "nis": "212210123",
+        "nama": "RYAMIZARD SURYA PUTRA RAMADHAN",
+        "kelas": "XII TKJ 1"
+    },
+    {
+        "id": "363",
+        "nis": "212210125",
+        "nama": "YUDHA PUTRA DARMA HAKIM",
+        "kelas": "XII TKJ 1"
+    },
+    {
+        "id": "364",
+        "nis": "212210075",
+        "nama": "AHMAD ARDYAN SYAHPUTRA",
+        "kelas": "XII TKJ 2"
+    },
+    {
+        "id": "365",
+        "nis": "212210103",
+        "nama": "AMANDA REDHA AULIA",
+        "kelas": "XII TKJ 2"
+    },
+    {
+        "id": "366",
+        "nis": "212210052",
+        "nama": "ARSA DANISH FADILLAH",
+        "kelas": "XII TKJ 2"
+    },
+    {
+        "id": "367",
+        "nis": "212210080",
+        "nama": "DAFFA ULHAQ PURNAMA LOVIND",
+        "kelas": "XII TKJ 2"
+    },
+    {
+        "id": "368",
+        "nis": "212210081",
+        "nama": "DIMAS ARYA SAPUTRA",
+        "kelas": "XII TKJ 2"
+    },
+    {
+        "id": "369",
+        "nis": "212210106",
+        "nama": "GALANG RAMADHAN",
+        "kelas": "XII TKJ 2"
+    },
+    {
+        "id": "370",
+        "nis": "212210056",
+        "nama": "HUMAIDI ILYAS",
+        "kelas": "XII TKJ 2"
+    },
+    {
+        "id": "371",
+        "nis": "212210060",
+        "nama": "MAHENDRA SAPUTRA",
+        "kelas": "XII TKJ 2"
+    },
+    {
+        "id": "372",
+        "nis": "212210087",
+        "nama": "MUHAMMAD AL FARIDZI",
+        "kelas": "XII TKJ 2"
+    },
+    {
+        "id": "373",
+        "nis": "212210089",
+        "nama": "MUHAMMAD FAHRI DZIKRULLAH",
+        "kelas": "XII TKJ 2"
+    },
+    {
+        "id": "374",
+        "nis": "212210110",
+        "nama": "MUHAMMAD FALAH AL-GINAT",
+        "kelas": "XII TKJ 2"
+    },
+    {
+        "id": "375",
+        "nis": "212210059",
+        "nama": "MUHAMMAD HASBIH PUTRA FIRMANSYAH",
+        "kelas": "XII TKJ 2"
+    },
+    {
+        "id": "376",
+        "nis": "212210084",
+        "nama": "MUHAMMAD IHSAN BANUAJI",
+        "kelas": "XII TKJ 2"
+    },
+    {
+        "id": "377",
+        "nis": "212210093",
+        "nama": "MUHAMMAD REZA DASTAGHIB",
+        "kelas": "XII TKJ 2"
+    },
+    {
+        "id": "378",
+        "nis": "212210066",
+        "nama": "MUHAMMAD ZIDAN NURACHMAN",
+        "kelas": "XII TKJ 2"
+    },
+    {
+        "id": "379",
+        "nis": "212210094",
+        "nama": "MULIA AKBAR NANDA PRATAMA",
+        "kelas": "XII TKJ 2"
+    },
+    {
+        "id": "380",
+        "nis": "212210118",
+        "nama": "MUZAKI TAUFIQURRAHMAN",
+        "kelas": "XII TKJ 2"
+    },
+    {
+        "id": "381",
+        "nis": "212210096",
+        "nama": "RAIHAN ARFIN SALIM",
+        "kelas": "XII TKJ 2"
+    },
+    {
+        "id": "382",
+        "nis": "212210120",
+        "nama": "RAMANDA OKTAVIANO AHMAD DEANOVA",
+        "kelas": "XII TKJ 2"
+    },
+    {
+        "id": "383",
+        "nis": "212210069",
+        "nama": "RANDI ADITYA PRATAMA",
+        "kelas": "XII TKJ 2"
+    },
+    {
+        "id": "384",
+        "nis": "212210070",
+        "nama": "RASYA DIANDRA PUTRA",
+        "kelas": "XII TKJ 2"
+    },
+    {
+        "id": "385",
+        "nis": "212210073",
+        "nama": "SAHAL DAFA MAULANA",
+        "kelas": "XII TKJ 2"
+    },
+    {
+        "id": "386",
+        "nis": "212210124",
+        "nama": "SALSA BELLA SEFTIRA",
+        "kelas": "XII TKJ 2"
+    },
+    {
+        "id": "387",
+        "nis": "212210074",
+        "nama": "YUSUF SANJAYA",
+        "kelas": "XII TKJ 2"
+    },
+    {
+        "id": "388",
+        "nis": "212210050",
+        "nama": "AFDANDY NAUFAL ZAKI AKBAR",
+        "kelas": "XII TKJ 3"
+    },
+    {
+        "id": "389",
+        "nis": "212210102",
+        "nama": "AHMAD NOOR ROHMAN",
+        "kelas": "XII TKJ 3"
+    },
+    {
+        "id": "390",
+        "nis": "212210078",
+        "nama": "ARZAQI FATIH MUTTAQIN",
+        "kelas": "XII TKJ 3"
+    },
+    {
+        "id": "391",
+        "nis": "212210104",
+        "nama": "BAGAS ANDRIANO WIBOWO",
+        "kelas": "XII TKJ 3"
+    },
+    {
+        "id": "392",
+        "nis": "212210054",
+        "nama": "DAMANIK",
+        "kelas": "YOHANES GEOVAN ONDOVA"
+    },
+    {
+        "id": "393",
+        "nis": "212210105",
+        "nama": "DAVID FATHI YAKAN",
+        "kelas": "XII TKJ 3"
+    },
+    {
+        "id": "394",
+        "nis": "212210111",
+        "nama": "MAHDI MUHAMAD",
+        "kelas": "XII TKJ 3"
+    },
+    {
+        "id": "395",
+        "nis": "212210112",
+        "nama": "MARKUS STIVENLINO BRIA",
+        "kelas": "XII TKJ 3"
+    },
+    {
+        "id": "396",
+        "nis": "212210083",
+        "nama": "MOEHAMMAD FAISHAL NABIL",
+        "kelas": "XII TKJ 3"
+    },
+    {
+        "id": "397",
+        "nis": "212210061",
+        "nama": "MOEHAMMAD RIZKY",
+        "kelas": "XII TKJ 3"
+    },
+    {
+        "id": "398",
+        "nis": "212210062",
+        "nama": "MUHAMAD TSABIT",
+        "kelas": "XII TKJ 3"
+    },
+    {
+        "id": "399",
+        "nis": "212210057",
+        "nama": "MUHAMMAD ABI BINTANG FIRDAUS",
+        "kelas": "XII TKJ 3"
+    },
+    {
+        "id": "400",
+        "nis": "212210109",
+        "nama": "MUHAMMAD ARIF FADIL",
+        "kelas": "XII TKJ 3"
+    },
+    {
+        "id": "401",
+        "nis": "212210088",
+        "nama": "MUHAMMAD EGA NURISMA",
+        "kelas": "XII TKJ 3"
+    },
+    {
+        "id": "402",
+        "nis": "212210064",
+        "nama": "MUHAMMAD NABIL DWI ANDIKA",
+        "kelas": "XII TKJ 3"
+    },
+    {
+        "id": "403",
+        "nis": "212210092",
+        "nama": "MUHAMMAD NUR FAUZAN",
+        "kelas": "XII TKJ 3"
+    },
+    {
+        "id": "404",
+        "nis": "212210116",
+        "nama": "MUHAMMAD RAFLY ARIFIN",
+        "kelas": "XII TKJ 3"
+    },
+    {
+        "id": "405",
+        "nis": "212210117",
+        "nama": "MUHAMMAD REZA MAULANA",
+        "kelas": "XII TKJ 3"
+    },
+    {
+        "id": "406",
+        "nis": "212210068",
+        "nama": "PATERNUS VARIO JUSTIN",
+        "kelas": "XII TKJ 3"
+    },
+    {
+        "id": "407",
+        "nis": "212210121",
+        "nama": "RENO SYAPUTRA",
+        "kelas": "XII TKJ 3"
+    },
+    {
+        "id": "408",
+        "nis": "212210098",
+        "nama": "RIAN RAHMANSYAH",
+        "kelas": "XII TKJ 3"
+    },
+    {
+        "id": "409",
+        "nis": "212210122",
+        "nama": "RICARDUS ANGGELUS RISOTA",
+        "kelas": "XII TKJ 3"
+    },
+    {
+        "id": "410",
+        "nis": "212210072",
+        "nama": "RIFKI ELDA FATKUROHMAN",
+        "kelas": "XII TKJ 3"
+    },
+    {
+        "id": "411",
+        "nis": "212210099",
+        "nama": "RIZKY DHARMAWAN",
+        "kelas": "XII TKJ 3"
+    },
+    {
+        "id": "412",
+        "nis": "212210100",
+        "nama": "YAHYA AJI DIHASTAMA",
+        "kelas": "XII TKJ 3"
+    },
+    {
+        "id": "413",
+        "nis": "212210127",
+        "nama": "ALIF ISKANDAR RABBANI",
+        "kelas": "XII MM 1"
+    },
+    {
+        "id": "414",
+        "nis": "212210153",
+        "nama": "AULIA KINANTI ZAHRANI",
+        "kelas": "XII MM 1"
+    },
+    {
+        "id": "415",
+        "nis": "212210178",
+        "nama": "CHANDRA MUHAMMAD FAIZ",
+        "kelas": "XII MM 1"
+    },
+    {
+        "id": "416",
+        "nis": "212210131",
+        "nama": "FITRI ZAHRA WARDANI",
+        "kelas": "XII MM 1"
+    },
+    {
+        "id": "417",
+        "nis": "212210132",
+        "nama": "FLORA ALMA ARIFANIA",
+        "kelas": "XII MM 1"
+    },
+    {
+        "id": "418",
+        "nis": "212210182",
+        "nama": "HABIBAH",
+        "kelas": "XII MM 1"
+    },
+    {
+        "id": "419",
+        "nis": "212210158",
+        "nama": "IDA AYU NYOMAN SEKAR AULIYA",
+        "kelas": "XII MM 1"
+    },
+    {
+        "id": "420",
+        "nis": "212210183",
+        "nama": "ILHAM NAJIB",
+        "kelas": "XII MM 1"
+    },
+    {
+        "id": "421",
+        "nis": "212210160",
+        "nama": "JOZU ABYAN NAUFAL AMRU",
+        "kelas": "XII MM 1"
+    },
+    {
+        "id": "422",
+        "nis": "212210134",
+        "nama": "KARINA AULIA PUTRI",
+        "kelas": "XII MM 1"
+    },
+    {
+        "id": "423",
+        "nis": "222311220",
+        "nama": "LACONY RANDY SATRIA",
+        "kelas": "XII MM 1"
+    },
+    {
+        "id": "424",
+        "nis": "212210185",
+        "nama": "LIDIYA SYARAH NURSABRINA",
+        "kelas": "XII MM 1"
+    },
+    {
+        "id": "425",
+        "nis": "212210186",
+        "nama": "MUHAMMAD FARIS AQILA",
+        "kelas": "XII MM 1"
+    },
+    {
+        "id": "426",
+        "nis": "212210164",
+        "nama": "MUHAMMAD HAFIZH MAHARDIKA",
+        "kelas": "XII MM 1"
+    },
+    {
+        "id": "427",
+        "nis": "212210165",
+        "nama": "MUHAMMAD YUGO HESSEL FADHILAH",
+        "kelas": "XII MM 1"
+    },
+    {
+        "id": "428",
+        "nis": "212210168",
+        "nama": "NOVANDIAN ARANE",
+        "kelas": "XII MM 1"
+    },
+    {
+        "id": "429",
+        "nis": "212210192",
+        "nama": "NOVIA AYU LESTARI",
+        "kelas": "XII MM 1"
+    },
+    {
+        "id": "430",
+        "nis": "212210169",
+        "nama": "RAFAHT HABILLAH ALGIN",
+        "kelas": "XII MM 1"
+    },
+    {
+        "id": "431",
+        "nis": "212210170",
+        "nama": "RAFIF AKBAR FERDIANSYAH",
+        "kelas": "XII MM 1"
+    },
+    {
+        "id": "432",
+        "nis": "212210145",
+        "nama": "RAYHAN ALFAUZAN",
+        "kelas": "XII MM 1"
+    },
+    {
+        "id": "433",
+        "nis": "212210146",
+        "nama": "RIDHO KRISNA PRATAMA",
+        "kelas": "XII MM 1"
+    },
+    {
+        "id": "434",
+        "nis": "212210148",
+        "nama": "WIDHY JA'FAR RAMADHAN",
+        "kelas": "XII MM 1"
+    },
+    {
+        "id": "435",
+        "nis": "212210197",
+        "nama": "YOGA SATRIA ADITYA PRATAMA",
+        "kelas": "XII MM 1"
+    },
+    {
+        "id": "436",
+        "nis": "212210149",
+        "nama": "ZAKI NAJIB SAPUTRA",
+        "kelas": "XII MM 1"
+    },
+    {
+        "id": "437",
+        "nis": "212210175",
+        "nama": "AFAN AULIA IRWANTO",
+        "kelas": "XII MM 2"
+    },
+    {
+        "id": "438",
+        "nis": "212210152",
+        "nama": "ALIF FARELA DAMAR SUN",
+        "kelas": "XII MM 2"
+    },
+    {
+        "id": "439",
+        "nis": "212210179",
+        "nama": "CHELSY AUDYA MAURYN",
+        "kelas": "XII MM 2"
+    },
+    {
+        "id": "440",
+        "nis": "212210154",
+        "nama": "DAFAA DICKA TAMTAMA",
+        "kelas": "XII MM 2"
+    },
+    {
+        "id": "441",
+        "nis": "212210034",
+        "nama": "DEWI RAHMAWATI",
+        "kelas": "XII MM 2"
+    },
+    {
+        "id": "442",
+        "nis": "212210129",
+        "nama": "FADLI RAHADIAN",
+        "kelas": "XII MM 2"
+    },
+    {
+        "id": "443",
+        "nis": "212210130",
+        "nama": "FATHIR RAIHAN PRADITA",
+        "kelas": "XII MM 2"
+    },
+    {
+        "id": "444",
+        "nis": "212210181",
+        "nama": "GEONADA AFRILIAN EIGALILUN",
+        "kelas": "XII MM 2"
+    },
+    {
+        "id": "445",
+        "nis": "212210184",
+        "nama": "KHAERUL IHSAN",
+        "kelas": "XII MM 2"
+    },
+    {
+        "id": "446",
+        "nis": "212210161",
+        "nama": "LUCKY FAUZAN AZIS ISMAYA",
+        "kelas": "XII MM 2"
+    },
+    {
+        "id": "447",
+        "nis": "212210187",
+        "nama": "MEIZY NURUL HUDA",
+        "kelas": "XII MM 2"
+    },
+    {
+        "id": "448",
+        "nis": "212210139",
+        "nama": "MUHAMMAD IKHRAM HERDIANSYAH",
+        "kelas": "XII MM 2"
+    },
+    {
+        "id": "449",
+        "nis": "212210162",
+        "nama": "MUHAMMAD NABIL KHOSYI RAMADHAN",
+        "kelas": "XII MM 2"
+    },
+    {
+        "id": "450",
+        "nis": "212210166",
+        "nama": "NADIA ZIAURRAHMAN",
+        "kelas": "XII MM 2"
+    },
+    {
+        "id": "451",
+        "nis": "212210141",
+        "nama": "NASYWA VANIA",
+        "kelas": "XII MM 2"
+    },
+    {
+        "id": "452",
+        "nis": "212210190",
+        "nama": "NAUFAL NAQAJIWA MULIAN",
+        "kelas": "XII MM 2"
+    },
+    {
+        "id": "453",
+        "nis": "212210167",
+        "nama": "NEJLA MARSELA",
+        "kelas": "XII MM 2"
+    },
+    {
+        "id": "454",
+        "nis": "212210144",
+        "nama": "RAFI' PRAMANA NOVANY",
+        "kelas": "XII MM 2"
+    },
+    {
+        "id": "455",
+        "nis": "212210171",
+        "nama": "REVA SALSABILA",
+        "kelas": "XII MM 2"
+    },
+    {
+        "id": "456",
+        "nis": "212210195",
+        "nama": "REYZA FAHREZI AZHALI",
+        "kelas": "XII MM 2"
+    },
+    {
+        "id": "457",
+        "nis": "212210172",
+        "nama": "RIAWAN SALMAN ALDIGAN",
+        "kelas": "XII MM 2"
+    },
+    {
+        "id": "458",
+        "nis": "212210173",
+        "nama": "ROHMANSYA PUTRA AKHMAL",
+        "kelas": "XII MM 2"
+    },
+    {
+        "id": "459",
+        "nis": "212210147",
+        "nama": "SHERLY AMALIA LESTARI",
+        "kelas": "XII MM 2"
+    },
+    {
+        "id": "460",
+        "nis": "212210150",
+        "nama": "ZHIDAN IQBAL RAMADHAN IFMI",
+        "kelas": "XII MM 2"
+    },
+    {
+        "id": "461",
+        "nis": "212210151",
+        "nama": "AFTAH RAHYANG SATRIANANDA S.",
+        "kelas": "XII MM 3"
+    },
+    {
+        "id": "462",
+        "nis": "212210126",
+        "nama": "AHMAD RAFLY",
+        "kelas": "XII MM 3"
+    },
+    {
+        "id": "463",
+        "nis": "212210176",
+        "nama": "AL FITO AN NAHL WAHID",
+        "kelas": "XII MM 3"
+    },
+    {
+        "id": "464",
+        "nis": "212210177",
+        "nama": "ANISANDRIA ALYA PUTRI",
+        "kelas": "XII MM 3"
+    },
+    {
+        "id": "465",
+        "nis": "212210128",
+        "nama": "CARISSA DAHAYU ATHAYA",
+        "kelas": "XII MM 3"
+    },
+    {
+        "id": "466",
+        "nis": "212210180",
+        "nama": "FAIRUZ MOHAMMAD YAFI",
+        "kelas": "XII MM 3"
+    },
+    {
+        "id": "467",
+        "nis": "212210155",
+        "nama": "FATHIHATTUL IHSAN",
+        "kelas": "XII MM 3"
+    },
+    {
+        "id": "468",
+        "nis": "212210156",
+        "nama": "FILDZA JASMINE",
+        "kelas": "XII MM 3"
+    },
+    {
+        "id": "469",
+        "nis": "212210157",
+        "nama": "GIFAR MUHAMAD",
+        "kelas": "XII MM 3"
+    },
+    {
+        "id": "470",
+        "nis": "212210133",
+        "nama": "HAIKAL PRIYO PAMBUDI",
+        "kelas": "XII MM 3"
+    },
+    {
+        "id": "471",
+        "nis": "212210159",
+        "nama": "IFADAH SAFFANAH AUREL",
+        "kelas": "XII MM 3"
+    },
+    {
+        "id": "472",
+        "nis": "212210136",
+        "nama": "LUKMAN NUR HAKIM",
+        "kelas": "XII MM 3"
+    },
+    {
+        "id": "473",
+        "nis": "212210137",
+        "nama": "MAHARDIKA WIGAN GARDAMAS",
+        "kelas": "XII MM 3"
+    },
+    {
+        "id": "474",
+        "nis": "212210163",
+        "nama": "MOH. RAFLI ALIF AGHNA",
+        "kelas": "XII MM 3"
+    },
+    {
+        "id": "475",
+        "nis": "212210138",
+        "nama": "MUHADZDZIB HIBATULLAH",
+        "kelas": "XII MM 3"
+    },
+    {
+        "id": "476",
+        "nis": "212210188",
+        "nama": "MUHAMMAD GEOVANNY DWI SEPTIAN",
+        "kelas": "XII MM 3"
+    },
+    {
+        "id": "477",
+        "nis": "212210189",
+        "nama": "MUHAMMAD RAFI AL-FAUZAN",
+        "kelas": "XII MM 3"
+    },
+    {
+        "id": "478",
+        "nis": "212210140",
+        "nama": "NASHIR KHOIRUL HUDA",
+        "kelas": "XII MM 3"
+    },
+    {
+        "id": "479",
+        "nis": "212210191",
+        "nama": "NAZWA EVRIEL PUTRINIANDI",
+        "kelas": "XII MM 3"
+    },
+    {
+        "id": "480",
+        "nis": "212210142",
+        "nama": "NIMAS ROSMADALIFAH",
+        "kelas": "XII MM 3"
+    },
+    {
+        "id": "481",
+        "nis": "212210193",
+        "nama": "PRIA BINTANG PRATAMA",
+        "kelas": "XII MM 3"
+    },
+    {
+        "id": "482",
+        "nis": "212210194",
+        "nama": "RAFID AFFAN DANAR",
+        "kelas": "XII MM 3"
+    },
+    {
+        "id": "483",
+        "nis": "212210196",
+        "nama": "RIFKY EKA PRATAMA",
+        "kelas": "XII MM 3"
+    },
+    {
+        "id": "484",
+        "nis": "212210198",
+        "nama": "YULIANA UMAMAH",
+        "kelas": "XII MM 3"
+    },
+    {
+        "id": "485",
+        "nis": "212210174",
+        "nama": "ZAHID ZIANUR RAHMAN",
+        "kelas": "XII MM 3"
+    },
+    {
+        "id": "486",
+        "nis": "212210199",
+        "nama": "ABRAM LAHAI-ROI  NAUFAL NAINGGOLAN",
+        "kelas": "XII TELCO"
+    },
+    {
+        "id": "487",
+        "nis": "212210200",
+        "nama": "DANIEL SIMBOLON",
+        "kelas": "XII TELCO"
+    },
+    {
+        "id": "488",
+        "nis": "212210201",
+        "nama": "IKHSAN APRIANSYAH",
+        "kelas": "XII TELCO"
+    },
+    {
+        "id": "489",
+        "nis": "212210202",
+        "nama": "IKHSAN FATONI",
+        "kelas": "XII TELCO"
+    },
+    {
+        "id": "490",
+        "nis": "212210203",
+        "nama": "KHOIRUL IMAN ARIFIN",
+        "kelas": "XII TELCO"
+    },
+    {
+        "id": "491",
+        "nis": "212210205",
+        "nama": "M. FATHIR ARYA PRATAMA",
+        "kelas": "XII TELCO"
+    },
+    {
+        "id": "492",
+        "nis": "212210204",
+        "nama": "M. RIZKI INDRIANTO RAMADHAN",
+        "kelas": "XII TELCO"
+    },
+    {
+        "id": "493",
+        "nis": "212210206",
+        "nama": "MUHAMAD FAJAR RAMADHAN",
+        "kelas": "XII TELCO"
+    },
+    {
+        "id": "494",
+        "nis": "212210208",
+        "nama": "MUHAMAD SYAHDAN MAULANA",
+        "kelas": "XII TELCO"
+    },
+    {
+        "id": "495",
+        "nis": "212210207",
+        "nama": "MUHAMMAD DAFFA",
+        "kelas": "XII TELCO"
+    },
+    {
+        "id": "496",
+        "nis": "212210209",
+        "nama": "MUHAMMAD ZIDANE SUDIRMAN",
+        "kelas": "XII TELCO"
+    },
+    {
+        "id": "497",
+        "nis": "212210210",
+        "nama": "NAUFAL BINTANG PASOPATI",
+        "kelas": "XII TELCO"
+    },
+    {
+        "id": "498",
+        "nis": "212210211",
+        "nama": "RAFLY MAISYA EFFENDI",
+        "kelas": "XII TELCO"
+    },
+    {
+        "id": "499",
+        "nis": "212210212",
+        "nama": "RHAZES DWI SHANDIKA",
+        "kelas": "XII TELCO"
+    },
+    {
+        "id": "500",
+        "nis": "212210213",
+        "nama": "RIDHO IZDIHAR",
+        "kelas": "XII TELCO"
+    },
+    {
+        "id": "501",
+        "nis": "212210214",
+        "nama": "SANGJAO TINODUNGAN HARAHAP",
+        "kelas": "XII TELCO"
+    },
+    {
+        "id": "502",
+        "nis": "212210215",
+        "nama": "SEPTHIALDI RIYANTO",
+        "kelas": "XII TELCO"
+    },
+    {
+        "id": "503",
+        "nis": "212210216",
+        "nama": "SULTHAN FAWWAZ HARIRI",
+        "kelas": "XII TELCO"
+    },
+    {
+        "id": "504",
+        "nis": "212210217",
+        "nama": "SYAHRIL SABIRIN SUBAGYA",
+        "kelas": "XII TELCO"
+    }
+]
